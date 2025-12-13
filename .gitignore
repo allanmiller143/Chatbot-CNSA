@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# MacOS
+.DS_Store
+
+# Embeddings e cache
+embeddings/

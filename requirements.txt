@@ -1,0 +1,7 @@
+flask
+python-dotenv
+openai
+tiktoken
+sentence-transformers
+faiss-cpu
+markdown
