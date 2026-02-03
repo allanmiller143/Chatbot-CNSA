@@ -56,6 +56,9 @@ Essas ações ampliam as experiências educativas e fortalecem a formação acad
 **Coordenadora do Ensino Fundamental – Anos Iniciais:**  
 **Lúcia de Fátima Chagas da Costa**
 
+## ✏️ Coordenação Pedagógica – Anos Iniciais  
+📞📱 (81) 98309-3289  
+
 A coordenação atua de forma integrada com professores, alunos e famílias, assegurando a qualidade do processo educativo e o acompanhamento contínuo do desenvolvimento dos estudantes.
 
 ---

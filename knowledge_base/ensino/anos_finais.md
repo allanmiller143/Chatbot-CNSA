@@ -41,6 +41,12 @@ Essas iniciativas contribuem para tornar a experiência no Ensino Fundamental �
 **Coordenador:**  
 **João Luiz Ferreira Neto**
 
+## 📚 Coordenação Pedagógica – Anos Finais e Ensino Médio  
+**SOP – Serviço de Orientação Pedagógica**  
+📞📱 (81) 98305-0448
+
 ---
 
 O Ensino Fundamental – Anos Finais reafirma o compromisso do Colégio do Amparo com uma educação de excelência, que integra conhecimento, valores, competências socioemocionais e protagonismo juvenil, formando estudantes preparados para os desafios do mundo contemporâneo.
+
+obs. se perguntarem quem é o **responsável**, **coordenador** ou **coordenadora** retorne os nomes de ambos os responsáveis (João e Jane).

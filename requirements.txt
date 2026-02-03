@@ -5,3 +5,6 @@ tiktoken
 sentence-transformers
 faiss-cpu
 markdown
+beautifulsoup4
+requests
+lxml

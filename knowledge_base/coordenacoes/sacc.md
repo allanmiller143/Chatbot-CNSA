@@ -46,6 +46,9 @@ O Serviço de Arte, Cultura e Comunicação é coordenado por uma profissional d
 - **Coordenadora:**  
   **Tacianne Mirelle de Vasconcelos Barbosa Marques**
 
+## 💬 SACC  
+📞📱 (81) 98642-7419  
+
 ---
 
 Com suas iniciativas, o **SACC** reafirma o compromisso do Colégio do Amparo com a arte, a cultura e a comunicação como pilares essenciais na formação de cidadãos criativos, críticos e protagonistas de sua própria história.

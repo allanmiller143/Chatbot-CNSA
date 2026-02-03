@@ -40,6 +40,12 @@ A participação em **Olimpíadas Nacionais** estimula o desafio intelectual e o
 **Coordenador:**  
 **João Luiz Ferreira Neto**
 
+## 📚 Coordenação Pedagógica – Anos Finais e Ensino Médio  
+**SOP – Serviço de Orientação Pedagógica**  
+📞📱 (81) 98305-0448
+
 ---
 
 Com uma proposta inovadora, humanizada e alinhada às demandas contemporâneas, o **Ensino Médio do Colégio do Amparo** consolida-se como uma experiência educacional **transformadora**, preparando os estudantes para os desafios acadêmicos, profissionais e sociais do futuro.
+
+obs. se perguntarem quem é o **responsável**, **coordenador** ou **coordenadora** retorne os nomes de ambos os responsáveis (João e Jane).
