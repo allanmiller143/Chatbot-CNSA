@@ -145,6 +145,13 @@ def get_chat_response(question: str, user_id: str, user_name: str = "Usuário"):
     search_question = generate_search_query(question, history_simple)
     final_context, context_docs = get_reranked_context(search_question)
 
+    print("\n===== DOCUMENTOS RECUPERADOS PELO RAG =====")
+    for i, doc in enumerate(context_docs, 1):
+        print(f"\n--- Documento {i} ---")
+        print(doc)
+    print("===========================================\n")
+
+
     # Anti-alucinação: sem contexto -> transferir
     if not final_context or not final_context.strip():
         raw_answer = "FLAG_HUMAN_TRANSFER"

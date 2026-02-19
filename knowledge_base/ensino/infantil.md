@@ -1,4 +1,4 @@
-# Educação Infantil
+# Educação Infantil - Creche
 
 A **Educação Infantil** desempenha um papel fundamental no desenvolvimento integral das crianças, pois é nessa fase que se estabelecem as bases para a aprendizagem ao longo da vida. De acordo com a **Base Nacional Comum Curricular (BNCC)**, aprovada em 2017, a Educação Infantil deve garantir o direito da criança de **aprender brincando**, explorando, convivendo, participando e se expressando.
 
