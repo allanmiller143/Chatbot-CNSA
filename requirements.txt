@@ -1,7 +1,8 @@
 flask
 python-dotenv
 openai
-tiktoken
-sentence-transformers
 faiss-cpu
+sentence-transformers
 markdown
+beautifulsoup4
+lxml

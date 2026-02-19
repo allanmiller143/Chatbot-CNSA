@@ -47,7 +47,7 @@ def generate_search_query(question: str, history: list) -> str:
     except Exception:
         return question
 
-def get_reranked_context(question: str, top_k_initial: int = 7, top_k_final: int = 3) -> tuple[str, list[str]]:
+def get_reranked_context(question: str, top_k_initial: int = 7, top_k_final: int = 5) -> tuple[str, list[str]]:
     """Busca, re-classifica e retorna o melhor contexto e os nomes dos arquivos usados."""
     
     # Verifica se os objetos de RAG foram inicializados
