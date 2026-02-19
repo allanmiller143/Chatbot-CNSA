@@ -4,5 +4,3 @@ openai
 faiss-cpu
 sentence-transformers
 markdown
-beautifulsoup4
-lxml
