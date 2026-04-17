@@ -39,4 +39,4 @@ class Config:
 
     # Modelos
     EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
-    CHAT_MODEL = "gpt-4o-mini"
+    CHAT_MODEL = "gpt-4.1"
