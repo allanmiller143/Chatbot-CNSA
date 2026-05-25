@@ -4,7 +4,6 @@ from db.db_manager import init_db
 from db.human_support_db import init_human_support_table
 from routes.chat import chat_bp
 from routes.feedback import feedback_bp
-from routes.dashboard_routes import dashboard_bp
 
 def create_app():
     app = Flask(__name__, static_folder='static', template_folder='templates')
@@ -14,7 +13,6 @@ def create_app():
 
     try:
         app.register_blueprint(feedback_bp)
-        app.register_blueprint(dashboard_bp)
     except Exception:
         app.logger.debug("feedback blueprint não encontrado ou já registrado")
 
