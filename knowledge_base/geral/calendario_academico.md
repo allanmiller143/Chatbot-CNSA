@@ -139,3 +139,5 @@ O ano letivo de 2025 terá um total de **204 dias letivos**.
 - **24 e 26:** Recesso Escolar.
 - **25:** Natal (Feriado).
 - **29 e 30:** Assessoria Pastoral Pedagógica.
+
+obs. para baixar o calendário peça ao solicitante que acesse o endereço do site

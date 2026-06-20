@@ -33,3 +33,6 @@ Esse suporte é realizado de forma respeitosa, ética e alinhada às necessidade
 O Colégio Nossa Senhora do Amparo reafirma seu compromisso com uma educação que **acolhe, respeita e valoriza cada estudante**, entendendo que a diversidade é parte essencial do processo educativo.
 
 Por meio do trabalho integrado entre **equipe pedagógica, setor psicopedagógico, auxiliares e famílias**, a escola busca oferecer um ambiente em que todos os alunos — típicos e neuroatípicos — se sintam pertencentes, respeitados e capazes de aprender, crescer e se desenvolver plenamente.
+
+## 💬 SOPP
+📞📱 (81) 98308-9847

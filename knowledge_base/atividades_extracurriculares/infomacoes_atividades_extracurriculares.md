@@ -31,6 +31,12 @@ Atualmente, o colégio oferece uma variedade de atividades para atender aos dife
 - Futsal
 - Handebol
 - Ballet
+- Dança
 - Grupo de dança Stella Duce
+- Xadrez
+- Projeto Jogos Interativos
+- Participação nos Jogos Escolares de Pernambuco
+- Participação nos Jogos Escolares Municipais
+- Jogos dos Ex-alunos Amparo
 
 obs. os pais costumam chamar as atividades extracurriculares de ***escolinha de futsal***, ou ***escolinha de handball***, ou so ***grupo de dança*** 

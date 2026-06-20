@@ -57,11 +57,7 @@ O Serviço de Orientação Religiosa e Pastoral conta com uma equipe dedicada ao
 - **Coordenadora:**  
   **Irmã Maria Terezinha da Silva**
 
-- **Vice-Coordenador:**  
-  **Joselito Severino da Silva Júnior**
-
 ---
 
 O SORP reafirma seu compromisso com a formação de cidadãos conscientes, solidários e comprometidos com os valores do Evangelho, contribuindo para uma educação que transforma vidas e a sociedade.
 
-obs. se perguntarem quem é o **responsável**, **coordenador** ou **coordenadora** retorne os nomes de ambos os responsáveis (Irmã Teresinha e Joselito).

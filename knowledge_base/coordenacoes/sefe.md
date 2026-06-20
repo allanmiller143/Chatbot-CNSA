@@ -46,6 +46,9 @@ O Serviço de Educação Física e Esportes conta com coordenação dedicada ao 
 - **Coordenadora:**  
   **Déborah Fernanda Duarte Moura**
 
+## ⚽ SEFE  
+📞📱 (81) 9984-6311
+
 ---
 
 O **SEFE** reafirma seu compromisso com uma educação que valoriza o corpo, o movimento e o esporte como ferramentas fundamentais para o desenvolvimento integral dos estudantes, promovendo saúde, convivência, cidadania e qualidade de vida.
