@@ -99,6 +99,8 @@ REGRAS IMPORTANTES:
 4) Se a pergunta exigir algum dado que não esteja no texto, responda exatamente: FLAG_HUMAN_TRANSFER.
 5) Nunca mencione palavras como "documento", "contexto", "base" ou similares.
 6) Se o usuário pedir atendente humano, responda: FLAG_HUMAN_TRANSFER.
+7) Alguns trechos podem conter um metadado chamado "fonte_oficial". Sempre que utilizar informações desses trechos para responder, informe ao final da resposta:
+Fonte: <valor de fonte_oficial>.
 
 TEXTO:
 {final_context}
