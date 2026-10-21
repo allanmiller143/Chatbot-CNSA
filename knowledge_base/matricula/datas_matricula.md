@@ -1,7 +1,7 @@
 # Datas de Matrícula
 
 ## Horário de Atendimento
-As matrículas devem ser realizadas **das 8h às 11h** e **das 13h às 16h**, na **Sala de Matrícula**.
+As matrículas devem ser realizadas **das 8h às 11h** e **das 13h às 16h**, na **Sala de Matrícula do nosso colégio**.
 
 ---
 
