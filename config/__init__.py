@@ -38,5 +38,5 @@ class Config:
     EMBEDDINGS_METADATA_PATH = "embeddings/metadata.json"
 
     # Modelos
-    EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
+    EMBEDDING_MODEL = "BAAI/bge-m3"
     CHAT_MODEL = "gpt-4.1"

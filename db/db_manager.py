@@ -52,6 +52,31 @@ def log_interaction(log_data):
     conn.commit()
     conn.close()
 
+def get_recent_interactions(user_id, limit=10):
+    """Retorna as últimas respostas bem-sucedidas do usuário em ordem cronológica."""
+    conn = sqlite3.connect(Config.DB_FILE)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute('''
+        SELECT timestamp, original_question, bot_answer
+        FROM interactions
+        WHERE user_id = ? AND status = 'RESPOSTA_OK'
+        ORDER BY id DESC
+        LIMIT ?
+    ''', (user_id, limit))
+
+    interactions = [
+        {
+            "ts": row["timestamp"],
+            "user": row["original_question"] or "",
+            "bot": row["bot_answer"] or ""
+        }
+        for row in cursor.fetchall()
+    ]
+    conn.close()
+    interactions.reverse()
+    return interactions
+
 def get_unclassified_interactions(limit=10):
     """Busca interações que ainda não foram classificadas (human_feedback_rating IS NULL)."""
     conn = sqlite3.connect(Config.DB_FILE)
@@ -151,4 +176,3 @@ def modify_interaction(interaction_id, original_question=None, bot_answer=None, 
     rows_affected = cursor.rowcount
     conn.close()
     return rows_affected > 0
-
