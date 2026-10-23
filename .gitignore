@@ -1,14 +1,16 @@
 # Python
 __pycache__/
 *.pyc
+*.py[cod]
 
 # Env
 .env
 
 # Virtual environment
-venv/
-.env/
+.ven/
 .venv/
+venv/
+env/
 
 # MacOS
 .DS_Store
@@ -18,4 +20,7 @@ embeddings/
 
 chatbot_log.db
 
-.ven/
+# Dependências e builds do frontend
+node_modules/
+dist/
+build/

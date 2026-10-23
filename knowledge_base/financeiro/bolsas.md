@@ -60,7 +60,7 @@ A seleção será baseada nas regras deste edital e na condição de vulnerabili
 ## 6. Etapas do Processo Seletivo e Matrícula
 
 ### 6.1. Inscrições
-- **Divulgação do Edital:** A divulgação ocorrerá no site do colégio (www.colegioamparosurubim.com.br) a partir de 27 de agosto de 2025.
+- **Divulgação do Edital:** A divulgação ocorrerá no site do colégio (https://www2.colegioamparosurubim.com.br/) a partir de 27 de agosto de 2025.
 - **Quem pode se inscrever:** Alunos que em 2026 irão cursar o 1º ano do Ensino Fundamental (Anos Iniciais), 6º ano do Ensino Fundamental (Anos Finais) e a 1ª Série do Ensino Médio.
 - **Período de Inscrição:** As inscrições serão realizadas pela internet, no site do colégio, de 28 de agosto de 2025 a 07 de setembro de 2025.
 - **Importante:** A inscrição não garante a concessão da bolsa. Recomenda-se que o candidato reserve vaga em outra instituição de ensino.
