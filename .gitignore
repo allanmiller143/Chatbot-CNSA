@@ -17,3 +17,5 @@ venv/
 embeddings/
 
 chatbot_log.db
+
+.ven/
