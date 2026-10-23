@@ -15,3 +15,5 @@ venv/
 
 # Embeddings e cache
 embeddings/
+
+chatbot_log.db
