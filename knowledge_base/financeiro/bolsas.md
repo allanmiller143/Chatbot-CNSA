@@ -1,13 +1,13 @@
 <!-- 
 metadados:
-  fonte_oficial: "https://www.colegioamparosurubim.com.br/concessao-de-bolsa-de-estudo/"
+  fonte_oficial: "https://www2.colegioamparosurubim.com.br/concessao-de-bolsas-sociais/"
 -->
 
 # Edital 002/2026: Concessão de Bolsas Sociais para descontos de Estudo na Educação Básica para o Ano Letivo de 2026
 
 Este documento detalha o processo de concessão de Bolsas Sociais e de descontos para Estudar no Colégio Nossa Senhora do Amparo (CNSA) para o ano letivo de 2026.
 
-O Colégio Nossa Senhora do Amparo (CNSA), com CNPJ 11.756.004/0001-10 e sede na Av. Agamenon Magalhães, 167, Centro, Surubim (PE), é uma entidade beneficente de Assistência Social (CEBAS). Este edital torna público o processo de concessão de bolsas de estudo para candidatos que comprovem situação socioeconômica de vulnerabilidade social, com base na Lei Complementar nº 187 de 2021.
+O Colégio Nossa Senhora do Amparo (CNSA), com sede na Av. Agamenon Magalhães, 167, Centro, Surubim (PE), é uma entidade beneficente de Assistência Social (CEBAS). Este edital torna público o processo de concessão de bolsas de estudo para candidatos que comprovem situação socioeconômica de vulnerabilidade social, com base na Lei Complementar nº 187 de 2021.
 
 ## 1. Informações Gerais sobre as Bolsas de Estudo
 

@@ -35,7 +35,6 @@ Além disso, a dança ensina valores como respeito, cooperação e convivência 
 
 A Dança faz parte de um conjunto de atividades que buscam atender aos diferentes interesses dos estudantes. Atualmente, o Colégio do Amparo oferece:
 
-- Dança  
 - Futsal  
 - Handebol  
 - Ballet  

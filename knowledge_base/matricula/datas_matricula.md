@@ -1,6 +1,6 @@
 # Datas de Matrícula 2027 — CNSA
 
-Fonte: Edital nº 006/2027 e Circular de Matrícula/2027, ambos datados de 21 de outubro de 2026.
+Fonte: Edital nº 006/2027, ambos datados de 21 de outubro de 2026.
 
 ## Horário e local
 - **Horário:** das 8h às 11h e das 13h às 16h.
