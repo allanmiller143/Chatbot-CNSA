@@ -7,8 +7,6 @@ Esta página contém todas as formas de entrar em contato com o Colégio Nossa S
 O endereço físico do Colégio Nossa Senhora do Amparo é:
 **Avenida Agamenon Magalhães, 167, Centro, Surubim – PE, CEP: 55.750-000.**
 
-
-
 # Telefones e WhatsApp para Contato
 
 Para facilitar a comunicação entre a escola, pais e responsáveis, disponibilizamos abaixo nossos canais oficiais de atendimento:

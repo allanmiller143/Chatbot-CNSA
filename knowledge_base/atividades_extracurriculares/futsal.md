@@ -36,11 +36,16 @@ Além disso, o futsal promove hábitos saudáveis e incentiva o cuidado com a sa
 
 O futsal faz parte de um conjunto de atividades extracurriculares que visam atender aos diferentes interesses e talentos dos estudantes. Atualmente, o Colégio do Amparo oferece:
 
-- Futsal  
-- Handebol  
-- Dança  
-- Ballet  
-- Grupo de dança **Stella Duce**  
+- Futsal
+- Handebol
+- Ballet
+- Dança
+- Grupo de dança Stella Duce
+- Xadrez
+- Projeto Jogos Interativos
+- Participação nos Jogos Escolares de Pernambuco
+- Participação nos Jogos Escolares Municipais
+- Jogos dos Ex-alunos Amparo
 
 Cada atividade contribui, de forma específica, para o desenvolvimento integral dos alunos.
 

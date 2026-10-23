@@ -17,7 +17,7 @@ O Colégio opera nos seguintes horários:
 | **Quarta-feira** | 07:00 – 18:30 |
 | **Quinta-feira** | 07:00 – 18:30 |
 | **Sexta-feira** | 07:00 – 18:30 |
-| **Sábado** | 07:00 - 12:00 |
+| **Sábado** | 07:00 - 11:30 |
 | **Domingo** | Fechado |
 
 ---

@@ -27,7 +27,6 @@ Responsável pela organização e gestão dos processos administrativos e acadê
 **Irmã Maria Terezinha da Silva**  
 **Irmã Maria Dias do Amparo**  
 
-
 ## Liderança baseada em valores
 
 A Direção do Colégio do Amparo exerce uma liderança pautada no **diálogo, na escuta e na corresponsabilidade**, fortalecendo a parceria entre escola, família e sociedade. Seu trabalho busca promover uma educação que alia conhecimento, valores, espiritualidade e compromisso social.

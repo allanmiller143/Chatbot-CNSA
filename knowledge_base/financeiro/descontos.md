@@ -29,3 +29,10 @@ Existem duas modalidades de bolsa que funcionam como um desconto:
 Para concorrer a uma bolsa de estudos, que na prática é o nosso formato de desconto, é necessário participar de um processo seletivo anual. Este processo inclui análise de renda familiar e outras etapas detalhadas no edital oficial.
 
 Para saber todas as regras, datas, e documentos necessários, é fundamental ler o **Edital de Concessão de Bolsas Sociais**. Todas as informações sobre como obter essa ajuda financeira estão lá.
+
+<!-- 
+metadados:
+  fonte_oficial: "https://www.colegioamparosurubim.com.br/concessao-de-bolsa-de-estudo/"
+-->
+
+obs. Para mais informações ou acesso ao edital envie o endereço do site ao solicitante

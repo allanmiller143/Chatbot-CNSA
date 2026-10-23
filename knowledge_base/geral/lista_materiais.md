@@ -24,3 +24,9 @@ Para encontrar a lista de materiais da sua turma, siga estas instruções simple
 - **Por que a lista é separada por turma?** Cada série tem necessidades pedagógicas diferentes, com materiais específicos para os projetos e atividades que serão desenvolvidos ao longo do ano.
 - **Posso usar a lista do ano passado?** Não é recomendado. A lista é atualizada anualmente e pode sofrer alterações. Utilize sempre a lista do ano letivo vigente.
 - **E se eu tiver dúvidas sobre um item da lista?** Caso tenha qualquer dúvida sobre um material específico, entre em contato com a secretaria ou a coordenação pedagógica do colégio para obter esclarecimentos.
+
+### Endereço do site:
+<!-- 
+metadados:
+  fonte_oficial: "https://www.colegioamparosurubim.com.br/lista-de-material-e-servicos/"
+-->

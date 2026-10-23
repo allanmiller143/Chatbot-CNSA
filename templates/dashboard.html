@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Dashboard WhatsApp - Amparo</title>
+
+  <style>
+    body {
+      font-family: Inter, system-ui, Arial, sans-serif;
+      margin: 0;
+      background: #f1f5f9;
+      color: #111827;
+    }
+
+    header {
+      background: #1e293b;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 22px;
+      font-weight: 600;
+      letter-spacing: .5px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+      margin-bottom: 20px;
+    }
+
+    .section-title {
+      margin-bottom: 12px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #374151;
+    }
+
+    .status-box {
+      padding: 10px 14px;
+      background: #eef2ff;
+      display: inline-block;
+      border-radius: 6px;
+      font-weight: 600;
+      margin-top: 6px;
+    }
+
+    .qr-wrapper {
+      display: none; /* começa invisível */
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    img.qr {
+      width: 260px;
+      height: 260px;
+      object-fit: contain;
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #cbd5e1;
+    }
+
+    .logs, .messages {
+      max-height: 260px;
+      overflow-y: auto;
+      padding-right: 10px;
+    }
+
+    .event-box {
+      background: #e2e8f0;
+      margin-bottom: 6px;
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .msg-box {
+      background: #e0f2fe;
+      margin-bottom: 6px;
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 14px;
+      border-left: 4px solid #0284c7;
+    }
+
+  </style>
+</head>
+<body>
+
+<header>Dashboard WhatsApp — Amparo</header>
+
+<div class="container">
+
+  <!-- Status -->
+  <div class="card">
+    <div class="section-title">Status do Sistema</div>
+
+    <div style="margin-top:12px;">
+      <strong>Status do WhatsApp:</strong>
+      <div id="lastStatus" class="status-box">Carregando...</div>
+    </div>
+  </div>
+
+  <!-- QR CODE -->
+  <div class="card qr-wrapper" id="qrWrapper">
+    <div class="section-title" id="qrTitle">Escaneie o QR Code para conectar</div>
+    <img id="qrImg" class="qr" src="" alt="QR Code"/>
+  </div>
+
+  <!-- Atendimento Humano -->
+  <div class="card">
+    <div class="section-title">Atendimento Humano</div>
+    <div id="humanTransferArea">
+      <p>Nenhum usuário em atendimento humano.</p>
+    </div>
+  </div>
+
+  <!-- Eventos -->
+  <div class="card">
+    <div class="section-title">Eventos Recentes</div>
+
+    <div style="display:flex; gap:20px; flex-wrap:wrap">
+      
+      <div style="flex:1 1 350px;">
+        <h4>Logs</h4>
+        <div id="logArea" class="logs"></div>
+      </div>
+
+      <div style="flex:1 1 350px;">
+        <h4>Últimas mensagens</h4>
+        <div id="lastMessages" class="messages"></div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+
+<script>
+  const socket = io("/dashboard");
+
+  const lastStatus = document.getElementById("lastStatus");
+  const qrWrapper = document.getElementById("qrWrapper");
+  const qrImg = document.getElementById("qrImg");
+
+  const logArea = document.getElementById("logArea");
+  const lastMessages = document.getElementById("lastMessages");
+  const humanTransferArea = document.getElementById("humanTransferArea");
+
+  let currentStatus = "INIT";
+
+  function traduzStatus(status) {
+    const map = {
+      "WORKER_CONNECTED": "Worker conectado",
+      "WORKER_DISCONNECTED": "Worker desconectado",
+      "CONNECTED": "Conectado ao WhatsApp",
+      "DISCONNECTED": "WhatsApp desconectado",
+      "QR_REQUIRED": "Aguardando QR Code",
+      "QR_GENERATED": "Escaneie o QR",
+      "RECONNECT_SCHEDULED": "Reconectando...",
+      "CONNECTING": "Conectando...",
+      "INIT": "Iniciando..."
+    };
+    return map[status] || status;
+  }
+
+  function addLog(msg) {
+    const div = document.createElement("div");
+    div.className = "event-box";
+    div.textContent = msg;
+    logArea.prepend(div);
+  }
+
+  function addMessage(payload) {
+    const div = document.createElement("div");
+    div.className = "msg-box";
+    div.textContent = `${payload.from}: ${payload.text}`;
+    lastMessages.prepend(div);
+  }
+
+  function atualizarQRCode(status) {
+    const conectado = (status === "CONNECTED");
+
+    if (conectado) {
+      qrWrapper.style.display = "none";
+      qrImg.src = "";
+    } else {
+      // A exibição do QR Code agora é tratada no evento 'whatsapp_qr'
+    }
+  }
+
+  function finalizarAtendimento(user_id) {
+    if (!confirm(`Tem certeza que deseja finalizar o atendimento humano para ${user_id}?`)) {
+      return;
+    }
+
+    fetch("/whatsapp/finish_human_transfer", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ user_id: user_id }),
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.ok) {
+        addLog(`Solicitação de finalização enviada para ${user_id}.`);
+      } else {
+        addLog(`Erro ao finalizar atendimento para ${user_id}: ${data.message}`);
+      }
+    })
+    .catch(error => {
+      addLog(`Erro de rede ao finalizar atendimento: ${error.message}`);
+    });
+  }
+
+  function atualizarAtendimentoHumano(users) {
+    humanTransferArea.innerHTML = "";
+    const userIds = Object.keys(users);
+
+    if (userIds.length === 0) {
+      humanTransferArea.innerHTML = "<p>Nenhum usuário em atendimento humano.</p>";
+      return;
+    }
+
+    const ul = document.createElement("ul");
+    ul.style.listStyle = "none";
+    ul.style.padding = "0";
+
+    userIds.forEach(user_id => {
+      const li = document.createElement("li");
+      li.style.marginBottom = "10px";
+      li.style.padding = "10px";
+      li.style.border = "1px solid #ccc";
+      li.style.borderRadius = "5px";
+      li.style.display = "flex";
+      li.style.justifyContent = "space-between";
+      li.style.alignItems = "center";
+
+      const info = document.createElement("span");
+      info.textContent = `Usuário: ${user_id} (Desde: ${new Date(users[user_id].ts).toLocaleTimeString()})`;
+
+      const button = document.createElement("button");
+      button.textContent = "Finalizar Atendimento";
+      button.style.padding = "8px 12px";
+      button.style.backgroundColor = "#ef4444";
+      button.style.color = "white";
+      button.style.border = "none";
+      button.style.borderRadius = "5px";
+      button.style.cursor = "pointer";
+      button.onclick = () => finalizarAtendimento(user_id);
+
+      li.appendChild(info);
+      li.appendChild(button);
+      ul.appendChild(li);
+    });
+
+    humanTransferArea.appendChild(ul);
+  }
+
+  socket.on("whatsapp_status", data => {
+    const traduzido = traduzStatus(data.status);
+    currentStatus = data.status;
+
+    lastStatus.textContent = traduzido;
+
+    atualizarQRCode(data.status);
+    addLog("Status atualizado: " + traduzido + " " +  data.status);
+  });
+
+  socket.on("human_transfer_update", users => {
+    atualizarAtendimentoHumano(users);
+    addLog(`Lista de atendimentos humanos atualizada. Total: ${Object.keys(users).length}`);
+  });
+
+  socket.on("whatsapp_qr", payload => {
+    if (currentStatus !== "CONNECTED") {
+      qrImg.src = payload.dataUrl;
+      qrWrapper.style.display = "block";
+      addLog("Novo QR Code disponível");
+    }
+  });
+
+  socket.on("whatsapp_message", payload => {
+    addMessage(payload);
+    addLog(`Mensagem recebida de ${payload.from}`);
+  });
+
+  // Inicialização (recebe o estado atual ao conectar)
+  socket.on("connect", () => {
+    addLog("Conectado ao servidor Socket.IO.");
+  });
+
+</script>
+
+</body>
+</html>
