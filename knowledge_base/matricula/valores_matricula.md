@@ -30,3 +30,6 @@ A circular informa que o revendedor autorizado responsável pela comercializaç�
 
 ## Formação de turma e restituição
 Caso o número de inscritos não atinja o mínimo necessário para a formação de uma turma, as matrículas não serão efetivadas e o valor pago no ato da inscrição será restituído aos interessados, conforme o edital.
+
+# Mensalidade
+Obs: Pedir detalhes à Secretaria pelo número whatsapp: 📞📱 (81) 98132-1124 

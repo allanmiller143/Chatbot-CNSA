@@ -35,3 +35,5 @@ Quando o usuário perguntar se pode visitar o colégio, conhecer as instalaçõe
 ### Exemplo de resposta do chatbot
 
 "Será um prazer ajudar você a conhecer melhor o Colégio Nossa Senhora do Amparo! Para verificar a possibilidade de visitar nossas dependências, recomendamos entrar em contato com a Secretaria Escolar e confirmar os dias, horários e a necessidade de agendamento. Assim, a equipe poderá orientar você sobre a disponibilidade para receber sua família."
+
+obs: Encaminhe o número da secretaria
