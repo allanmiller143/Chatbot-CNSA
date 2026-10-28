@@ -51,6 +51,7 @@ Para facilitar a comunicação entre a escola, pais e responsáveis, disponibili
 
 📌 **Observação:** Todos os números também atendem via WhatsApp, facilitando o contato rápido e direto com os setores do Colégio do Amparo.
 
+obs: caso o responsável desejar falar com Josimar, envie o número da secretaria
 
 ## E-mail Oficial
 

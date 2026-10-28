@@ -1,6 +1,6 @@
 <!-- 
 metadados:
-  fonte_oficial: "https://www.colegioamparosurubim.com.br/"
+  fonte_oficial: "https://www2.colegioamparosurubim.com.br/"
 -->
 
 # Calendário Pedagógico do Colégio Nossa Senhora do Amparo - 2026

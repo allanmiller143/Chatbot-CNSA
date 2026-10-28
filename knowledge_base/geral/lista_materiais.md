@@ -28,5 +28,5 @@ Para encontrar a lista de materiais da sua turma, siga estas instruções simple
 ### Endereço do site:
 <!-- 
 metadados:
-  fonte_oficial: "https://www.colegioamparosurubim.com.br/lista-de-material-e-servicos/"
+  fonte_oficial: "https://www2.colegioamparosurubim.com.br/lista-de-material/"
 -->

@@ -1,13 +1,13 @@
 <!-- 
 metadados:
-  fonte_oficial: "https://www.colegioamparosurubim.com.br/concessao-de-bolsa-de-estudo/"
+  fonte_oficial: "https://www2.colegioamparosurubim.com.br/concessao-de-bolsas-sociais/"
 -->
 
 # Edital 002/2026: Concessão de Bolsas Sociais para descontos de Estudo na Educação Básica para o Ano Letivo de 2026
 
 Este documento detalha o processo de concessão de Bolsas Sociais e de descontos para Estudar no Colégio Nossa Senhora do Amparo (CNSA) para o ano letivo de 2026.
 
-O Colégio Nossa Senhora do Amparo (CNSA), com CNPJ 11.756.004/0001-10 e sede na Av. Agamenon Magalhães, 167, Centro, Surubim (PE), é uma entidade beneficente de Assistência Social (CEBAS). Este edital torna público o processo de concessão de bolsas de estudo para candidatos que comprovem situação socioeconômica de vulnerabilidade social, com base na Lei Complementar nº 187 de 2021.
+O Colégio Nossa Senhora do Amparo (CNSA), com sede na Av. Agamenon Magalhães, 167, Centro, Surubim (PE), é uma entidade beneficente de Assistência Social (CEBAS). Este edital torna público o processo de concessão de bolsas de estudo para candidatos que comprovem situação socioeconômica de vulnerabilidade social, com base na Lei Complementar nº 187 de 2021.
 
 ## 1. Informações Gerais sobre as Bolsas de Estudo
 
@@ -60,7 +60,7 @@ A seleção será baseada nas regras deste edital e na condição de vulnerabili
 ## 6. Etapas do Processo Seletivo e Matrícula
 
 ### 6.1. Inscrições
-- **Divulgação do Edital:** A divulgação ocorrerá no site do colégio (www.colegioamparosurubim.com.br) a partir de 27 de agosto de 2025.
+- **Divulgação do Edital:** A divulgação ocorrerá no site do colégio (https://www2.colegioamparosurubim.com.br/) a partir de 27 de agosto de 2025.
 - **Quem pode se inscrever:** Alunos que em 2026 irão cursar o 1º ano do Ensino Fundamental (Anos Iniciais), 6º ano do Ensino Fundamental (Anos Finais) e a 1ª Série do Ensino Médio.
 - **Período de Inscrição:** As inscrições serão realizadas pela internet, no site do colégio, de 28 de agosto de 2025 a 07 de setembro de 2025.
 - **Importante:** A inscrição não garante a concessão da bolsa. Recomenda-se que o candidato reserve vaga em outra instituição de ensino.

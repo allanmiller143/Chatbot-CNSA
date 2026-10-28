@@ -31,7 +31,7 @@ Atualmente, o colégio oferece uma variedade de atividades para atender aos dife
 - Futsal
 - Handebol
 - Ballet
-- Dança
+- Teatro
 - Grupo de dança Stella Duce
 - Xadrez
 - Projeto Jogos Interativos
