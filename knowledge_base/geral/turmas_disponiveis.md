@@ -9,10 +9,12 @@ Este documento descreve as turmas e séries oferecidas em cada nível de ensino 
 Nesta fase, o foco é o desenvolvimento integral da criança através do brincar, explorar e conviver. Preparamos as bases para todo o aprendizado futuro em um ambiente acolhedor e estimulante.
 
 **Turmas Oferecidas:**
-- **Creche I e II:** O primeiro contato com o ambiente escolar. A partir de 2 anos completados até dia 31 de Março
-- **Creche II:** Para crianças com 3 anos completados até dia 31 de março.
+- **Creche I e II:** O primeiro contato com o ambiente escolar. Para crianças com 2 anos.
+- **Creche II:** Para crianças com 3 anos.
 - **1º Período:** Para crianças com 4 anos.
 - **2º Período:** Para crianças com 5 anos.
+
+Regra de corte: a idade indicada precisa ser atingida até 31 de março.
 
 **Diferenciais deste nível:** Programa Bilíngue (a partir dos 3 anos), Musicalização, Psicomotricidade e projetos como "Pequeno Cientista".
 
