@@ -123,7 +123,7 @@ As bolsas são intransferíveis, têm validade de um ano letivo e devem ser plei
 
 Para consultar o Edital 005/2026, verificar a documentação exigida ou esclarecer dúvidas sobre as Bolsas Sociais de Estudo, acesse o site oficial:
 
-https://www2.colegioamparosurubim.com.br/lista-de-material/
+https://www2.colegioamparosurubim.com.br/concessao-de-bolsas-sociais/
 
 O atendimento também pode ser solicitado pelos telefones informados no edital:
 
@@ -131,3 +131,7 @@ O atendimento também pode ser solicitado pelos telefones informados no edital:
 - WhatsApp: (81) 98132-1124
 
 Em caso de dúvidas sobre elegibilidade, documentação, renda familiar ou resultado, a orientação é consultar o edital completo e entrar em contato diretamente com o colégio.
+
+# observação: 
+
+Assim que perguntarem sobre as bolsas sinalize que o processo de concessão de bolsas para o ano letivo de 2027 já encerrou, mas prossiga dando as informações

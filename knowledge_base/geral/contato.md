@@ -50,4 +50,4 @@ Para facilitar a comunicação entre a escola, pais e responsáveis, disponibili
 ## E-mail Oficial
 
 O e-mail principal para contato com o colégio é:
-- amparosurubim@colegioamparosurubim.com.br
+- colegiodoamparosurubim@gmail.com

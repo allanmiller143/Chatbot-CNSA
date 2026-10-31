@@ -123,3 +123,10 @@ O Colégio Nossa Senhora do Amparo está comprometido com a Lei 13.709/2018 (LGP
 ## 16. Disposições Finais
 
 A inscrição neste processo implica na aceitação de todas as normas do edital. As bolsas serão concedidas em conformidade com a legislação vigente. Omissões e esclarecimentos serão resolvidos pela Comissão responsável.
+
+# observação: 
+
+Assim que perguntarem sobre as bolsas sinalize que o processo de concessão de bolsas para o ano letivo de 2027 já encerrou, mas prossiga dando as informações
+
+---
+Site do edital de bolsas:  https://www2.colegioamparosurubim.com.br/concessao-de-bolsas-sociais/
