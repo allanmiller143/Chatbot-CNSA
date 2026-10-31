@@ -75,9 +75,9 @@ TOO_LONG_MSG = f"Sua mensagem ficou muito longa. Pode resumir em até {MAX_QUEST
 _ERROR_BOT_MSGS = {ERROR_MSG, HANDOFF_FAILED_MSG}
 
 HANDOFF_NO_INFO_MSGS = [
-    "Essa informação eu não tenho aqui, mas vou pedir para um colaborador da secretaria te ajudar. Um momento, por favor.",
-    "Para essa eu prefiro não arriscar uma resposta errada. Vou chamar um colaborador para te ajudar, só um momento.",
-    "Isso eu não consigo confirmar por aqui. Vou encaminhar você para um colaborador da secretaria, um momento, por favor.",
+    "Vou pedir para um colaborador da secretaria te ajudar. Um momento, por favor.",
+    "Vou chamar um colaborador para te ajudar, só um momento.",
+    "Vou encaminhar sua dúvida para um colaborador, um momento, por favor.",
 ]
 HANDOFF_REQUESTED_MSGS = [
     "Claro! Vou chamar um colaborador para continuar seu atendimento. Um momento, por favor.",

@@ -2,7 +2,7 @@
 
 ## O que é a atividade extracurricular de Dança?
 
-A **Dança** é uma das atividades extracurriculares oferecidas pelo Colégio Nossa Senhora do Amparo, integrando o conjunto de ações desenvolvidas pelo **SEFE – Serviço de Educação Física e Esportes**. Essa prática tem como objetivo complementar a formação escolar, proporcionando aos estudantes experiências corporais, artísticas e sociais que vão além da sala de aula.
+A **Dança** é uma das atividades extracurriculares oferecidas pelo Colégio Nossa Senhora do Amparo, integrando o conjunto de ações desenvolvidas pelo **SACC – Serviço de Arte, Cultura e Comunicação**. Essa prática tem como objetivo complementar a formação escolar, proporcionando aos estudantes experiências corporais, artísticas e sociais que vão além da sala de aula.
 
 Por meio da dança, crianças e jovens exploram o movimento, a expressão corporal e a criatividade, desenvolvendo habilidades importantes para a vida pessoal e escolar.
 
@@ -38,17 +38,22 @@ A Dança faz parte de um conjunto de atividades que buscam atender aos diferente
 - Futsal  
 - Handebol  
 - Ballet  
-- Grupo de dança **Stella Duce**  
+- Dança  
+- Xadrez
+- Projeto Jogos Interativos
+- Participação nos Jogos Escolares de Pernambuco
+- Participação nos Jogos Escolares Municipais
+- Jogos dos Ex-alunos Amparo
 
 Cada uma dessas atividades contribui para o desenvolvimento físico, emocional e social dos alunos.
 
-## Responsável pelo SEFE
+## Responsável pelo SACC
 
-As atividades extracurriculares, incluindo a Dança, são coordenadas pelo Serviço de Educação Física e Esportes:
+A Dança é coordenada pelo Serviço de Arte, Cultura e Comunicação:
 
 - **Coordenadora:**  
-  **Déborah Fernanda Duarte Moura**
+  **Tacianne Mirelle de Vasconcelos Barbosa Marques**
 
----
+## 💬 SACC  
+📞📱 (81) 98642-7419 
 
-A atividade extracurricular de **Dança** reafirma o compromisso do Colégio Nossa Senhora do Amparo com uma educação que valoriza o movimento, a expressão artística e a formação de estudantes confiantes, criativos e protagonistas de sua própria história.

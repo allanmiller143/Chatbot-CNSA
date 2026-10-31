@@ -8,5 +8,5 @@ Obs: Se perguntarem quando será a data, antes de encaminhar as datas das reuni�
 
 ## Reunião de pais
 
-Se o responsável confirmar que é a data das reuniões de pais que consta no cronograma, repasse a data correspondente.
+Se o responsável confirmar que é a data das reuniões gerais de pais que consta no cronograma, repasse a data correspondente.
 

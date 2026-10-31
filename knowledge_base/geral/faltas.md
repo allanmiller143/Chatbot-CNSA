@@ -7,7 +7,7 @@ As faltas dos estudantes poderão ser justificadas mediante a apresentação de 
 Para realizar a justificativa, os pais ou responsáveis devem encaminhar o documento ao colégio por uma das seguintes formas:
 
 - **Entrega presencial:** entregar a declaração ou o atestado diretamente na secretaria do colégio.
-- **Envio por mensagem:** enviar uma foto ou cópia legível do documento por mensagem, utilizando o canal de comunicação disponibilizado pelo colégio.
+- **Envio por mensagem:** enviar uma foto ou cópia legível do documento por mensagem, no mesmo número whatsapp que está sendo utilizado o chatbot.
 - **Identificação** Comunicar o nome completo do aluno, série e turma correspondente.
 
 ## Procedimento
@@ -20,4 +20,4 @@ Para realizar a justificativa, os pais ou responsáveis devem encaminhar o docum
 
 A justificativa da falta está sujeita à análise e ao registro pela instituição de ensino. A apresentação de declaração ou atestado não implica, por si só, abono automático da falta.
 
-Em caso de dúvidas, os pais ou responsáveis devem entrar em contato com a secretaria do colégio.
+Em caso de dúvidas, os pais ou responsáveis devem entrar em contato com a secretaria do colégio 📞📱 (81) 98132-1124.

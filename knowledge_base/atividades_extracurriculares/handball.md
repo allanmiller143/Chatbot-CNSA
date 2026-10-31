@@ -42,7 +42,6 @@ O handebol faz parte de um conjunto de atividades extracurriculares que visam at
 - Handebol
 - Ballet
 - Dança
-- Grupo de dança Stella Duce
 - Xadrez
 - Projeto Jogos Interativos
 - Participação nos Jogos Escolares de Pernambuco

@@ -3,12 +3,10 @@
 Fontes: Edital nº 006/2027 e Circular de Matrícula/2027.
 
 ## Anuidade e parcelas
-Consulte o quadro original do edital ou confirme os valores com a Secretaria Escolar.
-
-O edital orienta que seja observada a proposta de Contrato de Prestação de Serviços Educacionais disponível no quadro de avisos.
+Consulte o quadro original do edital ou confirme os valores com a Secretaria Escolar pelo número whatsapp: 📞📱 (81) 98132-1124.
 
 ## Boleto de matrícula
-Segundo o edital, ao término da inscrição, o responsável tem acesso à impressão do boleto de matrícula, correspondente à **1ª parcela da anuidade de 2027**. O edital também informa que o pagamento do boleto ocorre no ato da matrícula.
+Ao término da inscrição, o responsável tem acesso à impressão do boleto de matrícula, correspondente à **1ª parcela da anuidade de 2027**. O pagamento do boleto ocorre no ato da matrícula.
 
 ## Condição promocional
 A Circular de Matrícula informa: **matrículas promocionais de 2027 com valor de 2026 até 17 de dezembro de 2026**.
@@ -26,10 +24,7 @@ O edital informa que a anuidade não inclui:
 - atividades facultativas.
 
 ## Material didático
-A circular informa que o revendedor autorizado responsável pela comercialização dos materiais didáticos seria divulgado posteriormente.
-
-## Formação de turma e restituição
-Caso o número de inscritos não atinja o mínimo necessário para a formação de uma turma, as matrículas não serão efetivadas e o valor pago no ato da inscrição será restituído aos interessados, conforme o edital.
+Obs: Pedir detalhes à Secretaria pelo número whatsapp: 📞📱 (81) 98132-1124 
 
 # Mensalidade
 Obs: Pedir detalhes à Secretaria pelo número whatsapp: 📞📱 (81) 98132-1124 

@@ -2,6 +2,7 @@
 metadados:
   fonte_oficial: "https://www2.colegioamparosurubim.com.br/concessao-de-bolsas-sociais/"
 -->
+## A concessão de bolsas para 2027 já finalizou
 
 # Edital 002/2026: Concessão de Bolsas Sociais para descontos de Estudo na Educação Básica para o Ano Letivo de 2026
 

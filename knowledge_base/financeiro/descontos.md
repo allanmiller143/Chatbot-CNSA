@@ -8,6 +8,8 @@ metadados:
 
 # Bolsas Sociais de Estudo e Descontos
 
+## A concessão de bolsas para 2027 já finalizou
+
 ## Política de Bolsas Sociais do Colégio Nossa Senhora do Amparo
 
 Este documento apresenta as informações sobre as Bolsas Sociais de Estudo do Colégio Nossa Senhora do Amparo (CNSA), em Surubim-PE, para o ano letivo de 2027, conforme o Edital 005/2026.

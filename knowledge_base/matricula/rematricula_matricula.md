@@ -23,8 +23,7 @@ A efetivação da matrícula depende, conforme o edital:
 - da assinatura do Contrato de Prestação de Serviços Educacionais.
 
 ## Bolsas
-- **Renovação de bolsas:** de 23/11 a 15/12/2026.
-- **Concessão de bolsas:** de 25/11 a 15/12/2026.
+- **Renovação de bolsas:** de 23/11 a 15/12/2026. 
 
 ## Encerramento
 As matrículas para o ano letivo de 2027 encerram-se em **13/01/2027**, segundo o edital e a circular.

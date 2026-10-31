@@ -32,7 +32,7 @@ Atualmente, o colégio oferece uma variedade de atividades para atender aos dife
 - Handebol
 - Ballet
 - Teatro
-- Grupo de dança Stella Duce
+- Dança
 - Xadrez
 - Projeto Jogos Interativos
 - Participação nos Jogos Escolares de Pernambuco

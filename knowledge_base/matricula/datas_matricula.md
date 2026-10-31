@@ -19,7 +19,6 @@
 
 ### Bolsas
 - **23/11 a 15/12/2026:** renovação de bolsas.
-- **25/11 a 15/12/2026:** concessão de bolsas.
 
 ## Outros prazos importantes
 - **Até 17/12/2026:** período promocional informado na circular, com matrícula 2027 pelo valor de 2026. Consulte `valores_matricula.md` para o contexto.
