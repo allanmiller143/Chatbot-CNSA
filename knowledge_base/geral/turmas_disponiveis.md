@@ -16,7 +16,7 @@ Nesta fase, o foco é o desenvolvimento integral da criança através do brincar
 
 **Diferenciais deste nível:** Programa Bilíngue (a partir dos 3 anos), Musicalização, Psicomotricidade e projetos como "Pequeno Cientista".
 
-**observação:** se os pais perguntarem se aceita crianças de 1 ano, diga que sim, desde que a criança complete 2 anos até dia 31 de março.
+**observação:** se os pais perguntarem se aceita crianças de 1 ano, diga que somente se a criança completar 2 anos até dia 31 de março.
 ---
 
 ## 2. Turmas do Ensino Fundamental – Anos Iniciais
